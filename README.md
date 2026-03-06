@@ -1,47 +1,72 @@
-<h1 align="center">Hi 👋, I'm Mayank Bhatt</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Tech+Enthusiast+from+India;Learning+the+MERN+Stack;Building+the+future+one+line+at+a+time;Python+%26+C%2B%2B+Dev" alt="Typing SVG" />
-</p>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" height="30px" width="30px"> I'm Mayank Bhatt</h1>
+<h3 align="center">Computer Science Student | Aspiring Developer | AI • ML • Robotics Enthusiast</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/mayankbhatt"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mayankoriginal711@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/coreshadow006"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+  <a href="https://komarev.com/ghpvc/?username=CodeStrikerMayank">
+    <img src="https://komarev.com/ghpvc/?username=CodeStrikerMayank&label=Profile%20views&color=00FFFF&style=flat-square" alt="CodeStrikerMayank's profile views" />
+  </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Banner" width="100%" />
 
-### ⚡ About Me
-- 🔭 **Focus:** Mastering Full-Stack Development & Python automation.
-- 🌱 **Learning:** Currently diving deep into the **MERN Stack** (MongoDB, Express, React, Node.js).
-- 👯 **Collaborate:** Open to Python tools, AI/ML experiments, and Web Apps.
-- 💬 **Ask me about:** Python, C++, and how to host your first web project.
-- ⚡ **Philosophy:** *I enjoy the quiet process of building. For me, the satisfaction of a working script is better than the credit for writing it.*
+## 📌 About Me
+- Aspiring programmer from India | Python, C, C++ | Learning Web Development & MERN Stack | Open-source learner | Interested in AI, ML, Robotics, and Aerospace Engineering
 
----
 
-### 🛠️ Tech Stack & Tools
+## 🧠 My Focus Areas
+- Data Science
+- Artificial Intelligence
+- Machine Learning
+- Robotics
+- Web Development
 
-| Category | Skills |
-| :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) |
-| **Web Dev** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) |
-| **AI/Data** | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) |
-| **Backend** | ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=flat-square&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) |
 
----
-
-### 📊 My GitHub Stats
+## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical&hide_border=true&align=center" alt="Mayank's Stats" />
+  <a href="https://github.com/CodeStrikerMayank">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CodeStrikerMayank&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="CodeStrikerMayank's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=CodeStrikerMayank&theme=radical&hide_border=true&cache_seconds=86400" alt="CodeStrikerMayank's GitHub Streak" width="49%" />
 </p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=CodeStrikerMayank&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mayank Bhatt's GitHub Trophies" />
+</p>
+
+
+## 🛠️ Languages & Tools
+
+> ## Programming Languages
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Frontend
+<p align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Backend
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-ar21.svg" alt="Flask" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Database
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+
+> ## Tools
+<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /></p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME_HERE&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/CodeStrikerMayank">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CodeStrikerMayank&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
----
+## 🔗 Connect with Me
+<p align="center"><a href="https://www.linkedin.com/in/mayank-bhatt-39445a379/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:mayankoriginal711@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+
+## 💬 Quote
+> Knowledge is the real reward; everything else is just a bonus.
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote" />
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" alt="Bottom Line" width="100%" />
+</div>
+
