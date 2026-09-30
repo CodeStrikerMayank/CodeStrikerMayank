@@ -127,9 +127,9 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodeStrikerMayank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CodeStrikerMayank&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2&count_private=true&include_all_commits=true" height="160px"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeStrikerMayank&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeStrikerMayank&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=8A2BE2&icon_color=8A2BE2&count_private=true" height="160px"/>
 </p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=CodeStrikerMayank&theme=tokyonight&hide_border=true&background=000000&ring=8A2BE2&currStreakLabel=8A2BE2" height="160px"/>
