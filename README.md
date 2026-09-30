@@ -139,7 +139,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeStrikerMayank&theme=darkhub&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies"/>
+  <img src="https://trophy.ryglcloud.net/?username=CodeStrikerMayank&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mayank Bhatt's GitHub Trophies"/>
 </p>
 
 ---
@@ -174,11 +174,7 @@ _"Code. Break. Create. Repeat."_
 ---
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CodeStrikerMayank/CodeStrikerMayank/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CodeStrikerMayank/CodeStrikerMayank/output/github-contribution-grid-snake.svg">
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/CodeStrikerMayank/CodeStrikerMayank/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space Shooter Contribution Graph" />
 </p>
 
 ---
