@@ -139,14 +139,14 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CodeStrikerMayank&theme=darkhub&no-frame=false&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=CodeStrikerMayank&theme=darkhub&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies"/>
 </p>
 
 ---
 
 ### 📈 Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeStrikerMayank&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Graph"/>
+  <img src="https://ghchart.rshah.org/8A2BE2/CodeStrikerMayank" alt="Contribution Graph" width="100%"/>
 </p>
 
 ---
